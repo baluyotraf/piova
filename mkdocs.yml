@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2024 Raffaello Baluyot
 nav:
   - Home: index.md
   - Blogs:
-      - stories/index.md
+      - blogs/index.md
   - Projects:
       - Alternative Queries: projects/altqq.md
   - Lecture Notes: "!include ./lectures/mkdocs.yml"
@@ -19,7 +19,7 @@ plugins:
   - monorepo
   - search
   - blog:
-      blog_dir: stories
+      blog_dir: blogs
 
 markdown_extensions:
   - md_in_html
