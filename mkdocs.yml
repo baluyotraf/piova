@@ -2,7 +2,7 @@ site_name: Piova
 site_url: https://piova.baluyotraf.com
 site_description: Stories and Codes from Research to Production
 repo_url: https://github.com/baluyotraf/piova
-repo_name: baluyotraf/softwareplusml
+repo_name: baluyotraf/piova
 edit_uri: ""
 copyright: Copyright &copy; 2024 Raffaello Baluyot
 
@@ -10,8 +10,7 @@ nav:
   - Home: index.md
   - Blogs:
       - blogs/index.md
-  - Projects:
-      - Alternative Queries: projects/altqq.md
+  - Projects: "!include ./projects/mkdocs.yml"
   - Lecture Notes: "!include ./lectures/mkdocs.yml"
 
 plugins:
