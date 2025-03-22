@@ -1,3 +1,3 @@
 {%
-   include-markdown "../../projects/lecture-natural-language-processing/README.md"
+   include-markdown "../../natural-language-processing/README.md"
 %}

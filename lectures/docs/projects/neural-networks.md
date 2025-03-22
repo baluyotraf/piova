@@ -1,3 +1,3 @@
 {%
-   include-markdown "../../projects/lecture-neural-networks/README.md"
+   include-markdown "../../neural-networks/README.md"
 %}

@@ -1,3 +1,3 @@
 {%
-   include-markdown "../../projects/lecture-python-basics/README.md"
+   include-markdown "../../python-basics/README.md"
 %}
