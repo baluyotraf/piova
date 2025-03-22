@@ -1,0 +1,42 @@
+site_name: Education @ Software + ML
+site_url: https://education.softwareplusml.baluyotraf.com
+site_description: Open and Accessible Educational Materials
+repo_url: https://github.com/baluyotraf/softwareplusml-education
+repo_name: baluyotraf/softwareplusml-education
+edit_uri: ""
+copyright: Copyright &copy; 2023 Raffaello Baluyot
+
+nav:
+  - Home: index.md
+  - Projects:
+    - Python Basics: projects/python-basics.md
+    - Neural Networks: projects/neural-networks.md
+    - Natural Language Processing: projects/natural-language-processing.md
+
+plugins:
+  - include-markdown
+  - social
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary: red
+    accent: light blue
+  icon:
+    logo: fontawesome/solid/graduation-cap
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/baluyotraf/
+      name: baluyotraf
+    - icon: fontawesome/brands/github
+      link: https://github.com/baluyotraf
+      name: baluyotraf
