@@ -8,10 +8,9 @@ copyright: Copyright &copy; 2023 Raffaello Baluyot
 
 nav:
   - Home: index.md
-  - Projects:
-    - Python Basics: projects/python-basics.md
-    - Neural Networks: projects/neural-networks.md
-    - Natural Language Processing: projects/natural-language-processing.md
+  - Python Basics: projects/python-basics.md
+  - Neural Networks: projects/neural-networks.md
+  - Natural Language Processing: projects/natural-language-processing.md
 
 plugins:
   - include-markdown
