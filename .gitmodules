@@ -1,18 +1,12 @@
-[submodule "lecture-python-basics"]
-	path = lectures/lecture-python-basics
-	url = ../lecture-python-basics.git
-[submodule "lecture-natural-language-processing"]
-	path = lectures/lecture-natural-language-processing
-	url = ../lecture-natural-language-processing.git
-[submodule "lecture-neural-networks"]
-	path = lectures/lecture-neural-networks
-	url = ../lecture-neural-networks.git
 [submodule "lectures/natural-language-processing"]
 	path = lectures/natural-language-processing
-	url = git@github.com:baluyotraf/lecture-natural-language-processing.git
+	url = ../lecture-natural-language-processing.git
 [submodule "lectures/neural-networks"]
 	path = lectures/neural-networks
-	url = git@github.com:baluyotraf/lecture-neural-networks.git
+	url = ../lecture-neural-networks.git
 [submodule "lectures/python-basics"]
 	path = lectures/python-basics
-	url = git@github.com:baluyotraf/lecture-python-basics.git
+	url = ../lecture-python-basics.git
+[submodule "projects/altqq"]
+	path = projects/altqq
+	url = ../altqq.git
